@@ -1,0 +1,27 @@
+body {
+    /* Contact Site Design */
+    background: radial-gradient(100% 316.05% at 0% 50%, #99891A 0%, #C2AE21 25.3%, #FFE52C 50.06%, #C8B322 77.16%, #99891A 99.99%);
+}
+
+.contactBack {
+    display: block;
+    padding-top: 8em;
+    /*width: 55%;
+    max-width: 95%;*/
+}
+
+@media only screen and (min-width: 680px) {
+    /* For Mobile or Android: */
+    .contactBack {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    /* For Tablets and Desktops: */
+    .contactBack {
+        width: 55%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

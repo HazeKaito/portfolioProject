@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #0D0D0D;
+}
+
+.nav-item{
+    margin-right: 15px;
+}
+
+.nav-link {
+    color: #ECECEC;
+    font-size: 18px;
+    font-family: 'Microsoft Sans Serif';
+    margin-right: 25px;
+}
+
+.nav-link:hover {
+    color: #FF3535;
+}
+
+.nav-link.active {
+        color: #FF3535 !important;
+}
