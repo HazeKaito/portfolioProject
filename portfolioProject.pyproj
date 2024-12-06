@@ -61,6 +61,7 @@
   <ItemGroup>
     <Folder Include="personalPortfolio\" />
     <Folder Include="personalPortfolio\migrations\" />
+    <Folder Include="personalPortfolio\static\images\" />
     <Folder Include="personalPortfolio\templates\" />
     <Folder Include="personalPortfolio\templates\personalPortfolio\" />
     <Folder Include="personalPortfolio\static\" />
